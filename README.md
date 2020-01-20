@@ -8,5 +8,5 @@ OpenToonz 的正體中文語系檔
 1. 重啟 OpenToonz 後就會生效
 
 ## 更新譯文
-1. 如果有覺得譯文不夠精確或錯誤想回報，請至 https://audilu.com
+1. 如果有覺得譯文不夠精確或錯誤想回報，請至 https://audilu.com/2020/01/17/opentoonz-zh-tw/
 1. 如果想自行更新，可自行下載 Qt Linguist，再一一將 ts 檔轉換成 qm 檔
